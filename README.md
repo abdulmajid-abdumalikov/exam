@@ -11,4 +11,4 @@ Java'da, deadlock, resource'dan noto'g'ri tartibda foydalanilgan holatda yuzaga 
 
 **Task №5**
 
-(0[1-9]|[1-2][0-9]|3[01])-(0[1-9]|1[0-2])-19[0-9]{4}
+(0[1-9]|[1-2][0-9]|3[01])-(0[1-9]|1[012])-([1-9][0-9][0-9][0-9])
